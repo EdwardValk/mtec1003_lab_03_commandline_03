@@ -158,7 +158,7 @@ Use tail on the file to show the contents of the end of the file.
 Write the command that you used below.  Write the last line of the output below.
 ----------
 
-
+ent-v314-013:other student$ tail  pg1232.txt
 
 ==========
 19. Using the same file...
@@ -184,7 +184,7 @@ Write the command that you used below.  Describe what spacebar and q does after 
 21.  How many words are in pg1232.txt?  What command did you use to determine the word count?
 ----------
 
-
+word count
 
 ==========
 22.  How many lines are in pg1232.txt?  What command did you use to determine the line count?
