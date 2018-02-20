@@ -356,15 +356,19 @@ ent-v314-013:science-fiction student$ pwd
 
 Write the command(s) that you used to do this below:
 ----------
+ent-v314-014:science-fiction student$ cd ../..
+ent-v314-014:science-fiction student$ pwd
+/Users/student/mtec1003-lab-03-lab-03
 
 ==========
 14. Find out what the most recently modified directory is in mtec1003 (there are only 3 to choose from)?  How would you find this out?  Hint: perhaps using something to show the modified date... and sort it by time.
 
 Write the command(s) that you used to do this below:
 ----------
-
+ent-v314-014:science-fiction student$ ls -alt
 ==========
 15. Create a compressed archive of the logs folder - that is... take the contents of logs and create a single archive (.tar), and compress (.gz)
 
 Write the command(s) that you used to do this below:
 ----------
+ent-v314-014:mtec1003-lab-03 student$
